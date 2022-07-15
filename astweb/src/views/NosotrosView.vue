@@ -8,7 +8,7 @@
                     <div class="card mb-4 shadow-sm rounded-3" v-for="perfil in perfiles">
                     <div class="card-body text-center">
                         <div class="mt-3 mb-4">
-                        <img :src="`/src/assets/fotos/${ perfil.foto}`"
+                        <img :src="`/img/fotos/${ perfil.foto}`"
                             class="rounded-circle img-fluid" style="width: 100px;" />
                         </div>
                         <h4 class="mb-2">{{ perfil.nombre }}</h4>
