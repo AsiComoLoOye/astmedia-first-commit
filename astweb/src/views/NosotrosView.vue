@@ -1,6 +1,6 @@
 <template lang="">
     <div class="container vh-100 overflow-auto pt-3">
-        <h1 class="green">Nosotros</h1>
+        <h1 class="green">Nuestro equipo</h1>
         <section >
             <div class="container py-5 h-100">
                 <div class="row d-flex justify-content-center align-items-center h-100">

@@ -10,7 +10,7 @@
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/acerca-de">Acerca de</RouterLink>
-        <RouterLink to="/nosotros">Nosotros</RouterLink>
+        <RouterLink to="/nosotros">Nuestro equipo</RouterLink>
       </nav>
     </div>
   </header>
