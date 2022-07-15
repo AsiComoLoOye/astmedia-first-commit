@@ -1,0 +1,86 @@
+[
+    {
+        "nombre": "Alejandro Trejos", 
+        "titulo": "Informático", 
+        "foto": "alejandro.jpeg", 
+        "descripcion": "Desde 2010 a la fecha asesoría y manejo de estrategia digital de campañas políticas, marcas y productos en medios sociales. Fundación de la primer agencia especializada en campañas en medios sociales."
+    },
+    {
+        "nombre": "Catalina Trejos", 
+        "titulo": "Community Manager", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Gestión de redes sociales, especialista en comunicación digital."
+    },
+    {
+        "nombre": "Laura Muñoz", 
+        "titulo": "Politóloga", 
+        "foto": "laura.jpeg",  
+        "descripcion": "Politologa y comunicadora con 20 años de experiencia en agencias de comunicación, agencias de investigación y agencias de publicidad digital, con clientes en Costa Rica, México y Latinoamérica."
+    },
+    {
+        "nombre": "Marjorie Valverde", 
+        "titulo": "Periodista", 
+        "foto": "marjorie.jpeg", 
+        "descripcion": "Profesional en comunicación y relaciones públicas, con casi 15 años de experiencia en el campo. Puedo apoyar a cualquier organización con sus necesidades de comunicación."
+    },
+    {
+        "nombre": "Marie Liz Azofeifa", 
+        "titulo": "Relacionista Pública", 
+        "foto": "marjorie.jpeg", 
+        "descripcion": "Mis estudios y mi empatía me han permitido tener habilidades para poder conocer lo que la gente quiere, el valor del servicio, el seguimiento, el respeto y el cumplimiento como profesional. Me he desenvuelto en el campo de la comunicación y también en el área de ventas que también me ha apasionado, me gusta trabajar con dinamismo y bajo retos que me hagan alcanzar los objetivos de la empresa que represento."
+    },
+    {
+        "nombre": "Janekeith Durán", 
+        "titulo": "Estratega Digital", 
+        "foto": "janekeith.jpeg",  
+        "descripcion": "Creación, planificación, desarrollo y ejecución de estrategias políticas de incidencia y comunicación frente a actores sociales, empresariales y políticos."
+    },
+    {
+        "nombre": "Arturo Garro", 
+        "titulo": "Software Developer", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Desarrollo de aplicaciones web. Desarrollo de sitios en Worpress, Angular o Vue"
+    },
+    {
+        "nombre": "Marjorie Parra", 
+        "titulo": "Diseñadora gráfica", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Diseñadora gráfica y gestora de contenido para varias marcas"
+    },
+    {
+        "nombre": "Bernardo N. Alvarez", 
+        "titulo": "Diseñador gráfico", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Pretende satisfacer las necesidades de comunicación visual de una empresa, haciendo llegar al público objetivo una información determinada a través de diferentes soportes, como carteles, folletos, tarjetas, papelería empresarial etc."
+    },
+    {
+        "nombre": "Katherine Rodríguez", 
+        "titulo": "Administradora", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Administradora y gestora de contenido en redes sociales"
+    },
+    {
+        "nombre": "María José Avendaño", 
+        "titulo": "Gestora de contenido", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Manejo de redes sociales, administración de perfiles y community manager"
+    },
+    {
+        "nombre": "Beatriz Camacho", 
+        "titulo": "Gestora de contenido", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Manejo de redes sociales, colaboración en labores administrativas"
+    },
+    {
+        "nombre": "Jose Ricardo Garro", 
+        "titulo": "Gestor de contenido", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Comunicador y activista en Redes Sociales. Responsable, proactivo, trabajador, en constante aprendizaje buscando mejorar e implementar nuevas técnicas en las preparaciones. Aportando ideas creativas constantemente para mejorar así la calidad del producto final. Con amplia experiencia en cocina hotelera."
+    },
+    {
+        "nombre": "Marlon Jesús Soto", 
+        "titulo": "Politólogo", 
+        "foto": "arturo.jpeg",  
+        "descripcion": "Gestión de redes sociales, especialista en comunicación política."
+    }
+]
