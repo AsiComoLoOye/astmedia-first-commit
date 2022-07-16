@@ -1,12 +1,12 @@
 <template lang="">
     <div class="row justify-content-center pt-5 pt-sm-0">
-        <div class="col-lg-8 text-center">
+        <div class="col-lg-11 text-center">
             <h1 class="green">Contáctenos</h1>
-            <p>En AST Media estamos deseosos de ayudarle</p>
-            <h2>¿Encontró las respuestas que buscaba?</h2>
-            <p>¿Tiene más preguntas sobre nuestro servicio? ¿Quiere saber más acerca de nosotros?</p>
+            <div class="embed-responsive embed-responsive-21by9">
+            <video src="/videos/ast_media.mp4" class="embed-responsive-item w-100" autoplay controls></video>
+            </div>
         </div>
-        <div class="row align-items-center mb-10">
+        <div class="row align-items-center mb-10 pt-3">
             <div class="col-lg-4 text-center mb-5 mb-lg-0">
                 <p>Mándanos un mensaje</p>
                 <span><font-awesome-icon icon="fa-brands fa-whatsapp" />&nbsp;</span>
