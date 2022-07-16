@@ -22,7 +22,13 @@ const router = createRouter({
       path: '/nosotros',
       name: 'Nosotros',
       component: () => import('../views/NosotrosView.vue')
-    }
+    },
+    {
+      path: '/contactenos',
+      name: 'Contactenos',
+      component: () => import('../views/ContactView.vue')
+    },
+    { path: '/:catchAll(.*)', redirect: '/' }, // catch all use case
   ]
 })
 

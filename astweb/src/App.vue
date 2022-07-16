@@ -11,6 +11,7 @@
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/acerca-de">Acerca de</RouterLink>
         <RouterLink to="/nosotros">Nuestro equipo</RouterLink>
+        <RouterLink to="/contactenos">Contactenos</RouterLink>
       </nav>
     </div>
   </header>
