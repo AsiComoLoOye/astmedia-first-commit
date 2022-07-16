@@ -1,86 +1,80 @@
 [
     {
         "nombre": "Alejandro Trejos", 
-        "titulo": "Informático", 
-        "foto": "alejandro.jpeg", 
-        "descripcion": "Desde 2010 a la fecha asesoría y manejo de estrategia digital de campañas políticas, marcas y productos en medios sociales. Fundación de la primer agencia especializada en campañas en medios sociales."
-    },
-    {
-        "nombre": "Catalina Trejos", 
-        "titulo": "Community Manager", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Gestión de redes sociales, especialista en comunicación digital."
-    },
-    {
-        "nombre": "Laura Muñoz", 
-        "titulo": "Politóloga", 
-        "foto": "laura.jpeg",  
-        "descripcion": "Politologa y comunicadora con 20 años de experiencia en agencias de comunicación, agencias de investigación y agencias de publicidad digital, con clientes en Costa Rica, México y Latinoamérica."
+        "titulo": "Estratega en comunicación", 
+        "foto": "alejandro.png", 
+        "descripcion": "Consultor en redes sociales y marketing. Informático. Fundador, gerente y estratega principal en AST Media desde 2007. Consultor y asesor en comunicación política, digital y alternativa en campañas en Latinoamérica y España."
     },
     {
         "nombre": "Marjorie Valverde", 
-        "titulo": "Periodista", 
-        "foto": "marjorie.jpeg", 
+        "titulo": "Relaciones Públicas y Comunicación", 
+        "foto": "marjorie.png", 
         "descripcion": "Profesional en comunicación y relaciones públicas, con casi 15 años de experiencia en el campo. Puedo apoyar a cualquier organización con sus necesidades de comunicación."
     },
     {
+        "nombre": "Catalina Trejos", 
+        "titulo": "Comunicación social y digital", 
+        "foto": "catalina.png",  
+        "descripcion": "Comunicadora especializada en comunicación social, digital y cultural. Coordinadora de proyectos en comunicación digital en temas de incidencia social, derechos humanos y culturales."
+    },
+    {
+        "nombre": "Laura Muñoz", 
+        "titulo": "Estratega en comunicación", 
+        "foto": "laura.png",  
+        "descripcion": "Politóloga y comunicadora estratégica. Mi foco es la asesoría en la creación y ejecución de estrategias de comunicación, con especial énfasis en la comunicación digital y la comunicación en redes sociales."
+    },
+    {
+        "nombre": "Katherine Rodríguez", 
+        "titulo": "Administración y creación de contenido", 
+        "foto": "katherine.png",  
+        "descripcion": "Especialista en manejo administrativo y en el manejo de cuentas de redes sociales. Creadora de contenido para redes sociales y material audiovisual."
+    },
+    {
         "nombre": "Marie Liz Azofeifa", 
-        "titulo": "Relacionista Pública", 
-        "foto": "marjorie.jpeg", 
-        "descripcion": "Mis estudios y mi empatía me han permitido tener habilidades para poder conocer lo que la gente quiere, el valor del servicio, el seguimiento, el respeto y el cumplimiento como profesional. Me he desenvuelto en el campo de la comunicación y también en el área de ventas que también me ha apasionado, me gusta trabajar con dinamismo y bajo retos que me hagan alcanzar los objetivos de la empresa que represento."
+        "titulo": "Comunicación Digital", 
+        "foto": "marieliz.png", 
+        "descripcion": "Me he desenvuelto en el campo de la comunicación y también en el área de ventas, me gusta trabajar con dinamismo y bajo retos que me hagan alcanzar los objetivos de la empresa que represento."
+    },
+    {
+        "nombre": "Marlon Jesús Soto", 
+        "titulo": "Politólogo y Comunicación Digital", 
+        "foto": "marlon.png",
+        "descripcion": "Politólogo especializado en gerencia de proyectos, especialista en motivación y liderazgo. Atención de comunicación digital y redes sociales desde la óptica de sector público."
     },
     {
         "nombre": "Janekeith Durán", 
-        "titulo": "Estratega Digital", 
-        "foto": "janekeith.jpeg",  
-        "descripcion": "Creación, planificación, desarrollo y ejecución de estrategias políticas de incidencia y comunicación frente a actores sociales, empresariales y políticos."
+        "titulo": "Comunicación Digital", 
+        "foto": "janekeith.png",  
+        "descripcion": "Internacionalista y estudiante de Administración de Negocios. Coordinador de operativos en comunicación digital en temas de incidencia política, comunicación social."
+    },
+    {
+        "nombre": "Beatriz Camacho", 
+        "titulo": "Administración y Comunicación Digital", 
+        "foto": "beatriz.png",  
+        "descripcion": "Proactiva y deseosa de adquirir nuevos retos. Facilidad de resolución de problemas con pensamiento analítico y creativo. Responsable, puntual y con excelente trabajo individual o en equipo. Habilidad para comunicarme de forma asertiva."
+    },
+    {
+        "nombre": "Federico Ruiz", 
+        "titulo": "Politólogo y Relacionista Internacional", 
+        "foto": "federico.png",  
+        "descripcion": "Asesor experimentado en relaciones gubernamentales. Especialista en Relaciones Internacionales, diplomacia, política nacional, análisis de políticas públicas, gobierno, sistemas políticos, comunicación política y oratoria."
+    },
+    {
+        "nombre": "Jose Ricardo Garro", 
+        "titulo": "Diseño y Comunincación Digital", 
+        "foto": "josericardo.png",  
+        "descripcion": "Responsable, proactivo, trabajador, en constante aprendizaje buscando mejorar e implementar nuevas técnicas en las preparaciones. Aportando ideas creativas constantemente para mejorar así la calidad del producto final."
     },
     {
         "nombre": "Arturo Garro", 
         "titulo": "Software Developer", 
         "foto": "arturo.jpeg",  
-        "descripcion": "Desarrollo de aplicaciones web. Desarrollo de sitios en Worpress, Angular o Vue"
-    },
-    {
-        "nombre": "Marjorie Parra", 
-        "titulo": "Diseñadora gráfica", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Diseñadora gráfica y gestora de contenido para varias marcas"
+        "descripcion": "Experto en diseño y desarrollo web . Comprensión completa de HTML complejo, CSS y Lenguajes de programación JavaScript para generar diseños personalizados de páginas web."
     },
     {
         "nombre": "Bernardo N. Alvarez", 
         "titulo": "Diseñador gráfico", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Pretende satisfacer las necesidades de comunicación visual de una empresa, haciendo llegar al público objetivo una información determinada a través de diferentes soportes, como carteles, folletos, tarjetas, papelería empresarial etc."
-    },
-    {
-        "nombre": "Katherine Rodríguez", 
-        "titulo": "Administradora", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Administradora y gestora de contenido en redes sociales"
-    },
-    {
-        "nombre": "María José Avendaño", 
-        "titulo": "Gestora de contenido", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Manejo de redes sociales, administración de perfiles y community manager"
-    },
-    {
-        "nombre": "Beatriz Camacho", 
-        "titulo": "Gestora de contenido", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Manejo de redes sociales, colaboración en labores administrativas"
-    },
-    {
-        "nombre": "Jose Ricardo Garro", 
-        "titulo": "Gestor de contenido", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Comunicador y activista en Redes Sociales. Responsable, proactivo, trabajador, en constante aprendizaje buscando mejorar e implementar nuevas técnicas en las preparaciones. Aportando ideas creativas constantemente para mejorar así la calidad del producto final. Con amplia experiencia en cocina hotelera."
-    },
-    {
-        "nombre": "Marlon Jesús Soto", 
-        "titulo": "Politólogo", 
-        "foto": "arturo.jpeg",  
-        "descripcion": "Gestión de redes sociales, especialista en comunicación política."
+        "foto": "natanael.png",  
+        "descripcion": "Pretendo satisfacer las necesidades de comunicación visual de una empresa, haciendo llegar al público objetivo información determinada a través de diferentes soportes de diseño gráfico y audiovisual."
     }
 ]

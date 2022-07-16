@@ -46,6 +46,10 @@ export default {
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fbfc', endColorstr='#add9e4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
     }
+    .card img.rounded-circle.img-fluid {
+    border: 3px solid #fff;
+    outline: 3px solid var(--vt-c-naranja);
+}
 </style>
 
 

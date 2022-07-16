@@ -12,9 +12,7 @@ import AboutusIcon from '../components/icons/IconAboutus.vue'
       <AboutusIcon />
     </template>
     <template #heading>Acerca de AST Media</template>
-    <p>Somos la primera agencia especializada en comunicación y estrategia de medios sociales en Costa Rica.</p>
-    <p>Con experiencia desde 2007 en atención a clientes en Costa Rica, Panamá, Centro América, Perú, México y República Dominicana.
-Nuestra visión nos lleva un paso más adelante del manejo tradicionales de medios sociales.</p>
+    <p>AST Media es la primera agencia especializada en comunicación y estrategia de medios sociales en Costa Rica. Con experiencia desde 2007 en atención a clientes en Costa Rica, Panamá, Centro América, Suramérica, México, República Dominicana y España, nuestra visión nos lleva un paso más adelante del manejo tradicionales de medios sociales.</p>
   </WelcomeItem>
 
   <WelcomeItem>
