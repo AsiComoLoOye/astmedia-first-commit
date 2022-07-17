@@ -15,7 +15,7 @@
             <div class="col-lg-4 text-center mb-5 mb-lg-0">
                 <p>Mandanos un correo</p>
                 <span><font-awesome-icon icon="fa-regular fa-envelope" />&nbsp;</span>
-                <a href="mailto:astmediacr@gmail.com?subject=Contacto%20para%20mas%20informacion&body=Buenas%2C%20vi%20la%20p%C3%A1gina%20web%20y%20me%20interesar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20sus%20servicios" target="_blank">Correo</a>
+                <a href="mailto:alejandro@astmediacr.com?subject=Contacto%20para%20mas%20informacion&body=Buenas%2C%20vi%20la%20p%C3%A1gina%20web%20y%20me%20interesar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20sus%20servicios" target="_blank">Correo</a>
             </div>
             <div class="col-lg-4 text-center mb-5 mb-lg-0">
                 <p>Haz una llamada</p>

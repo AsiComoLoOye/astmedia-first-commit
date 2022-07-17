@@ -1,5 +1,5 @@
 <template lang="">
-    <div class="container vh-100 overflow-auto pt-3">
+    <div class="container vh-100 pt-3 equipo">
         <h1 class="green">Nuestro equipo</h1>
         <section >
             <div class="container py-5 h-100">
@@ -49,6 +49,15 @@ export default {
     .card img.rounded-circle.img-fluid {
     border: 3px solid #fff;
     outline: 3px solid var(--vt-c-naranja);
+}
+
+@media (min-width: 1024px) {
+  .green {
+    padding-left: 70px;
+  }
+  .equipo {
+    overflow-y: auto;
+}
 }
 </style>
 
